@@ -16,7 +16,11 @@ When approaching a problem as a computer scientist, I start by defining the prob
 What are my ethical responsibilities to the end user and the organization?
 
 My ethical responsibilities to the end user and the organization include:
+
   -Transparency regarding data collection and user privacy.
+  
   -Safeguarding sensitive information for both the organization and the end user.
+  
   -Ensuring that algorithms or systems I develop are fair and unbiased.
+  
   -Ensuring that algorithms or systems I develop adhere to applicable legal regulations.
